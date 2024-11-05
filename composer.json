@@ -1,0 +1,12 @@
+{
+  "name": "user/api.test.ru",
+  "require": {
+    "php": "^8.0",
+    "ext-pgsql": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
